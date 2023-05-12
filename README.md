@@ -15,10 +15,17 @@
 ![Method](lesson_2/2.JPG)
 ## Lesson 3: Инициализатор __init__ и финализатор __del__
 1. Инициализатор __init__ и финализатор __del__(start)
-![Method](lesson_3/1.JPG)
+![Magic](lesson_3/1.JPG)
 2. Инициализатор __init__ (Принцип действия)
-![Method](lesson_3/2.JPG)
+![Magic](lesson_3/2.JPG)
 3. Финализатор __del__ (принцип действия)
 Работает по принципу: пока есть внешняя ссылка на 
 объект-нужен(обратное-не нужен(__del__ подчищает))
-![Method](lesson_3/3.JPG)
+![Magic](lesson_3/3.JPG)
+## Lesson 4: Магический метод __new__. Пример паттерна Singleton
+1. Магический метод __new__(start)
+![Magic](lesson_4/1.JPG)
+2. Иерархи классов по умолчанию:
+![Magic](lesson_4/2.JPG)
+3. Паттерн Singleton:
+![Magic](lesson_4/3.JPG)
