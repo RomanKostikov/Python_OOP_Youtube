@@ -29,3 +29,13 @@
 ![Magic](lesson_4/2.JPG)
 3. Паттерн Singleton:
 ![Magic](lesson_4/3.JPG)
+## Lesson 5: Методы класса (classmethod) и статические методы (staticmethod)
+1. @classmethod: прописывать имя класса внутри самого класса это плохая практика, лучше использовать
+cls/self так программа становится более универсальной
+![Magic](lesson_5/1.JPG)
+2. Простой случай с методами
+![Magic](lesson_5/2.JPG)
+3. Наглядно про обращение через @classmethod
+![Magic](lesson_5/3.JPG)
+4. @staticmethod предлагается использовать только переданными аргументами
+![Magic](lesson_5/4.JPG)
